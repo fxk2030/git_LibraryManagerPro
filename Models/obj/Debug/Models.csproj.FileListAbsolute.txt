@@ -1,0 +1,5 @@
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Models\bin\Debug\Models.dll
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Models\bin\Debug\Models.pdb
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Models\obj\Debug\Models.dll
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Models\obj\Debug\Models.pdb

@@ -156,6 +156,16 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="BLL\BLL.csproj">
+      <Project>{8c4349e6-0292-4a79-86ab-c174fb7487eb}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="Models\Models.csproj">
+      <Project>{bd077577-87ec-4287-a36f-74b937d7060b}</Project>
+      <Name>Models</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

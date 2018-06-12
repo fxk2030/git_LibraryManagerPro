@@ -1,0 +1,8 @@
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\DAL\bin\Debug\DAL.dll
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\DAL\bin\Debug\DAL.pdb
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\DAL\bin\Debug\Models.dll
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\DAL\bin\Debug\Models.pdb
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\DAL\obj\Debug\DAL.dll
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,10 @@
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\BLL\bin\Debug\BLL.dll
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\BLL\bin\Debug\BLL.pdb
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\BLL\bin\Debug\DAL.dll
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\BLL\bin\Debug\Models.dll
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\BLL\bin\Debug\DAL.pdb
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\BLL\bin\Debug\Models.pdb
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\BLL\obj\Debug\BLL.dll
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\BLL\obj\Debug\BLL.pdb

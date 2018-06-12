@@ -1,0 +1,6 @@
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Common\bin\Debug\Common.dll
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Common\bin\Debug\Common.pdb
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Common\obj\Debug\Common.dll
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Common\obj\Debug\Common.pdb
