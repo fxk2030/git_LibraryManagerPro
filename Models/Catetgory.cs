@@ -11,5 +11,10 @@ namespace Models
     [Serializable]
     public class Catetgory
     {
+
+        public int CategoryId { get; set; }
+
+        public string CategoryName { get; set; }
+
     }
 }

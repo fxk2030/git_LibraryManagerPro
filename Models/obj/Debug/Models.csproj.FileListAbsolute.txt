@@ -3,3 +3,4 @@ D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Models\bin\De
 D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
 D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Models\obj\Debug\Models.dll
 D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Models\obj\Debug\Models.pdb
+D:\c#pro\LibraryManagerPro\LibraryManagerPro\git_LibraryManagerPro\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache

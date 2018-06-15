@@ -39,9 +39,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BookService.cs" />
+    <Compile Include="BorrowService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReaderService.cs" />
+    <Compile Include="SysAdminService.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\DBUtility\DBUtility.csproj">
+      <Project>{a9255fb2-ecc5-4e3c-b879-c5d48d00ff21}</Project>
+      <Name>DBUtility</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Models\Models.csproj">
       <Project>{bd077577-87ec-4287-a36f-74b937d7060b}</Project>
       <Name>Models</Name>
